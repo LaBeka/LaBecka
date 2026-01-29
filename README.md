@@ -12,3 +12,9 @@ I am Java enthusiast, active learner committed to professional evolution.
 Collaborative  Solution-driven Software Engineer.
 
 Wellness enthusiast committed to perseverance and balanced energy approach to professional excellence in every project I undertake. 
+
+
+Would you like to connect? check out my Linkedin
+
+Would you like to collaborate in opencourse projects?
+[Linkedin](https://www.linkedin.com/in/begayym/)
