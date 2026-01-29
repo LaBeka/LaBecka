@@ -8,6 +8,7 @@ Experienced backend java developer(2 years)
 In my everyday work i use and deep dive:
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/LaBeka/byte-canvas-crew/blob/main/src/assets/icons/spring.png"><img src="https://github.com/LaBeka/byte-canvas-crew/blob/main/src/assets/icons/spring.png" title="Spring framework" alt="Spring" width="100" height="100" style="max-width: 100%;"></a> 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/LaBeka/byte-canvas-crew/blob/main/src/assets/icons/java.png"><img src="https://github.com/LaBeka/byte-canvas-crew/blob/main/src/assets/icons/java.png" title="Java" alt="Java" width="100" height="100" style="max-width: 100%;"></a> 
 
 I am Java enthusiast, active learner committed to professional evolution.
 
