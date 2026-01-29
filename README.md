@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/LaBeka/[LaBeka]/blob/main/[![httpsbegaiymkalilova vercel app (1)](https://github.com/user-attachments/assets/b091f894-8d29-4b34-b86f-d7328aa66cd9)].jpg?raw=true)
+![httpsbegaiymkalilova vercel app (1)](https://github.com/user-attachments/assets/675ef3f6-2b75-42f2-a67b-94c170eef5bb)
 
 Hi There! I am Becka 🤗
 
