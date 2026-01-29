@@ -16,5 +16,5 @@ Wellness enthusiast committed to perseverance and balanced energy approach to pr
 
 Would you like to connect? check out my Linkedin
 
-Would you like to collaborate in opencourse projects?
+Would you like to collaborate in projects?
 [Linkedin](https://www.linkedin.com/in/begayym/)
